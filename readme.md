@@ -9,6 +9,6 @@ _Haré un texto en cursiva porque sé como ponerlo en cursiva_
 ~~No sé si esto funcionará, pero en teoría debería estar tachado~~
 **Hoy es _viernes_ y el cuerpo lo sabe**
 ***Este texto estará en negrita y en cursiva***
-No sé para que eçse podría utilizar un <sup>subindice</sub>
+No sé para que eçse podría utilizar un <sub>subindice</sub>
 Lo mismo digo para un <sup>superíndice</sup>
 
